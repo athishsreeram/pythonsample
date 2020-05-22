@@ -1,0 +1,476 @@
+The script has the name ITC.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  Created 
+          Date        Open        High  ...  pandas_SMA_50    Buy  Trigger
+234 2020-05-21  175.600006  175.600006  ...        170.705  False    False
+
+[1 rows x 11 columns]
+The script has the name SOUTHBANK.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date  Open  High   Low  ...  pandas_SMA_20  pandas_SMA_50   Buy  Trigger
+234 2020-05-21  5.05  5.05  4.95  ...           5.56          5.971  True    False
+
+[1 rows x 11 columns]
+The script has the name KTKBANK.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date       Open   High  ...  pandas_SMA_50   Buy  Trigger
+234 2020-05-21  37.599998  37.75  ...      44.701362  True    False
+
+[1 rows x 11 columns]
+The script has the name SJVN.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date   Open   High  ...  pandas_SMA_50    Buy  Trigger
+234 2020-05-21  20.75  20.85  ...         20.924  False    False
+
+[1 rows x 11 columns]
+The script has the name FEDERALBNK.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date   Open       High  ...  pandas_SMA_50   Buy  Trigger
+234 2020-05-21  39.25  39.849998  ...          48.45  True    False
+
+[1 rows x 11 columns]
+The script has the name NHPC.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date       Open   High  ...  pandas_SMA_50   Buy  Trigger
+234 2020-05-21  19.700001  19.85  ...         20.372  True    False
+
+[1 rows x 11 columns]
+The script has the name GMDCLTD.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date       Open       High  ...  pandas_SMA_50    Buy  Trigger
+234 2020-05-21  35.049999  35.900002  ...         37.306  False    False
+
+[1 rows x 11 columns]
+The script has the name NATIONALUM.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date  Open       High  ...  pandas_SMA_50   Buy  Trigger
+234 2020-05-21  27.9  28.049999  ...         30.073  True    False
+
+[1 rows x 11 columns]
+The script has the name CASTROLIND.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date    Open        High  ...  pandas_SMA_50    Buy  Trigger
+234 2020-05-21  108.25  109.900002  ...        116.717  False    False
+
+[1 rows x 11 columns]
+The script has the name CARERATING.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date   Open        High  ...  pandas_SMA_50    Buy  Trigger
+234 2020-05-21  357.0  364.899994  ...     372.720999  False    False
+
+[1 rows x 11 columns]
+The script has the name 63MOONS.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date       Open       High  ...  pandas_SMA_50   Buy  Trigger
+191 2020-05-21  52.049999  53.900002  ...        100.544  True    False
+
+[1 rows x 11 columns]
+The script has the name coalindia.ns
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date        Open        High  ...  pandas_SMA_50   Buy  Trigger
+234 2020-05-21  123.900002  124.349998  ...        139.859  True    False
+
+[1 rows x 11 columns]
+The script has the name HDFCMFGETF.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date         Open         High  ...  pandas_SMA_50    Buy  Trigger
+206 2020-05-21  4277.450195  4277.450195  ...    3779.394023  False    False
+
+[1 rows x 11 columns]
+The script has the name MOREPENLAB.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date  Open       High  ...  pandas_SMA_50    Buy  Trigger
+234 2020-05-21  15.9  16.200001  ...         13.576  False    False
+
+[1 rows x 11 columns]
+The script has the name 524520.NS
+[*********************100%***********************]  1 of 1 completed
+
+1 Failed download:
+- 524520.NS: No data found, symbol may be delisted
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+Empty DataFrame
+Columns: [Date, Open, High, Low, Close, Adj Close, Volume, pandas_SMA_20, pandas_SMA_50, Buy, Trigger]
+Index: []
+The script has the name MARKSANS.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date  Open  High    Low  ...  pandas_SMA_20  pandas_SMA_50    Buy  Trigger
+234 2020-05-21  19.9  20.5  19.75  ...        19.8325         17.114  False    False
+
+[1 rows x 11 columns]
+The script has the name ITC.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date        Open        High  ...  pandas_SMA_50    Buy  Trigger
+234 2020-05-21  175.600006  176.899994  ...        170.734  False    False
+
+[1 rows x 11 columns]
+The script has the name SOUTHBANK.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date  Open  High   Low  ...  pandas_SMA_20  pandas_SMA_50   Buy  Trigger
+234 2020-05-21  5.05  5.05  4.95  ...         5.5625          5.972  True    False
+
+[1 rows x 11 columns]
+The script has the name KTKBANK.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date       Open   High  ...  pandas_SMA_50   Buy  Trigger
+234 2020-05-21  37.599998  37.75  ...      44.703362  True    False
+
+[1 rows x 11 columns]
+The script has the name SJVN.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date   Open   High  ...  pandas_SMA_50    Buy  Trigger
+234 2020-05-21  20.75  20.85  ...         20.923  False    False
+
+[1 rows x 11 columns]
+The script has the name FEDERALBNK.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date   Open       High  ...  pandas_SMA_50   Buy  Trigger
+234 2020-05-21  39.25  39.849998  ...         48.453  True    False
+
+[1 rows x 11 columns]
+The script has the name NHPC.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date       Open  High  ...  pandas_SMA_50   Buy  Trigger
+234 2020-05-21  19.700001  19.9  ...         20.373  True    False
+
+[1 rows x 11 columns]
+The script has the name GMDCLTD.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date       Open       High  ...  pandas_SMA_50    Buy  Trigger
+234 2020-05-21  35.049999  35.900002  ...         37.307  False    False
+
+[1 rows x 11 columns]
+The script has the name NATIONALUM.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date  Open  High    Low  ...  pandas_SMA_20  pandas_SMA_50   Buy  Trigger
+234 2020-05-21  27.9  28.1  27.75  ...         29.645         30.074  True    False
+
+[1 rows x 11 columns]
+The script has the name CASTROLIND.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date    Open        High  ...  pandas_SMA_50    Buy  Trigger
+234 2020-05-21  108.25  109.900002  ...        116.715  False    False
+
+[1 rows x 11 columns]
+The script has the name CARERATING.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date   Open   High  ...  pandas_SMA_50    Buy  Trigger
+234 2020-05-21  357.0  366.0  ...     372.759999  False    False
+
+[1 rows x 11 columns]
+The script has the name 63MOONS.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date       Open       High  ...  pandas_SMA_50   Buy  Trigger
+191 2020-05-21  52.049999  53.900002  ...        100.523  True    False
+
+[1 rows x 11 columns]
+The script has the name coalindia.ns
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date        Open        High  ...  pandas_SMA_50   Buy  Trigger
+234 2020-05-21  123.900002  124.349998  ...        139.866  True    False
+
+[1 rows x 11 columns]
+The script has the name HDFCMFGETF.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date         Open         High  ...  pandas_SMA_50    Buy  Trigger
+206 2020-05-21  4277.450195  4277.450195  ...    3779.218027  False    False
+
+[1 rows x 11 columns]
+The script has the name MOREPENLAB.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date  Open       High  ...  pandas_SMA_50    Buy  Trigger
+234 2020-05-21  15.9  16.200001  ...         13.576  False    False
+
+[1 rows x 11 columns]
+The script has the name 524520.NS
+[*********************100%***********************]  1 of 1 completed
+
+1 Failed download:
+- 524520.NS: No data found, symbol may be delisted
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+Empty DataFrame
+Columns: [Date, Open, High, Low, Close, Adj Close, Volume, pandas_SMA_20, pandas_SMA_50, Buy, Trigger]
+Index: []
+The script has the name MARKSANS.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date  Open  High    Low  ...  pandas_SMA_20  pandas_SMA_50    Buy  Trigger
+234 2020-05-21  19.9  20.5  19.75  ...          19.84         17.117  False    False
+
+[1 rows x 11 columns]
+The script has the name TCS.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date    Open     High  ...  pandas_SMA_50    Buy  Trigger
+235 2020-05-21  1946.0  1964.75  ...    1835.637998  False    False
+
+[1 rows x 11 columns]
+The script has the name TAJGVK.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date   Open    High  ...  pandas_SMA_50    Buy  Trigger
+235 2020-05-21  121.5  127.75  ...        115.213  False    False
+
+[1 rows x 11 columns]
+The script has the name ITC.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date        Open        High  ...  pandas_SMA_50    Buy  Trigger
+235 2020-05-21  175.600006  176.899994  ...        170.495  False    False
+
+[1 rows x 11 columns]
+The script has the name HDFC.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date         Open         High  ...  pandas_SMA_50   Buy  Trigger
+235 2020-05-21  1632.900024  1651.800049  ...    1704.646001  True    False
+
+[1 rows x 11 columns]
+The script has the name HINDUNILVR.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date    Open         High  ...  pandas_SMA_50   Buy  Trigger
+235 2020-05-21  1999.0  2003.400024  ...    2150.990994  True    False
+
+[1 rows x 11 columns]
+The script has the name DIVISLAB.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date    Open    High  ...  pandas_SMA_50    Buy  Trigger
+235 2020-05-21  2375.0  2390.5  ...    2185.082007  False    False
+
+[1 rows x 11 columns]
+The script has the name BAJAJ-AUTO.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date    Open         High  ...  pandas_SMA_50    Buy  Trigger
+235 2020-05-21  2634.5  2724.199951  ...    2372.817007  False    False
+
+[1 rows x 11 columns]
+The script has the name PFIZER.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date    Open         High  ...  pandas_SMA_50    Buy  Trigger
+235 2020-05-21  4327.0  4344.950195  ...    4310.318032  False    False
+
+[1 rows x 11 columns]
+The script has the name MARUTI.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date    Open    High  ...  pandas_SMA_50   Buy  Trigger
+235 2020-05-21  4890.0  4974.0  ...    5068.141006  True    False
+
+[1 rows x 11 columns]
+The script has the name NESTLEIND.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date     Open     High  ...  pandas_SMA_50    Buy  Trigger
+235 2020-05-21  16330.0  16505.0  ...   16256.056016  False    False
+
+[1 rows x 11 columns]
+The script has the name SOUTHBANK.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date  Open  High   Low  ...  pandas_SMA_20  pandas_SMA_50   Buy  Trigger
+235 2020-05-21  5.05  5.05  4.95  ...          5.515          5.892  True    False
+
+[1 rows x 11 columns]
+The script has the name KTKBANK.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date       Open   High  ...  pandas_SMA_50   Buy  Trigger
+235 2020-05-21  37.599998  37.75  ...      44.086362  True    False
+
+[1 rows x 11 columns]
+The script has the name HDFCBANK.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date        Open   High  ...  pandas_SMA_50   Buy  Trigger
+235 2020-05-21  861.450012  884.0  ...     922.334003  True    False
+
+[1 rows x 11 columns]
+The script has the name SJVN.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date   Open  High  ...  pandas_SMA_50    Buy  Trigger
+235 2020-05-21  20.75  20.9  ...         20.875  False    False
+
+[1 rows x 11 columns]
+The script has the name KTKBANK.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date       Open   High  ...  pandas_SMA_50   Buy  Trigger
+235 2020-05-21  37.599998  37.75  ...      44.086362  True    False
+
+[1 rows x 11 columns]
+The script has the name FEDERALBNK.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date   Open       High  ...  pandas_SMA_50   Buy  Trigger
+235 2020-05-21  39.25  39.849998  ...         47.565  True    False
+
+[1 rows x 11 columns]
+The script has the name NHPC.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date       Open       High  ...  pandas_SMA_50   Buy  Trigger
+235 2020-05-21  19.700001  20.049999  ...          20.33  True    False
+
+[1 rows x 11 columns]
+The script has the name GMDCLTD.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date       Open       High  ...  pandas_SMA_50    Buy  Trigger
+235 2020-05-21  35.049999  35.900002  ...          37.05  False    False
+
+[1 rows x 11 columns]
+The script has the name ITC.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date        Open        High  ...  pandas_SMA_50    Buy  Trigger
+235 2020-05-21  175.600006  176.899994  ...        170.494  False    False
+
+[1 rows x 11 columns]
+The script has the name NATIONALUM.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date  Open   High    Low  ...  pandas_SMA_20  pandas_SMA_50   Buy  Trigger
+235 2020-05-21  27.9  28.15  27.75  ...         29.355         29.931  True    False
+
+[1 rows x 11 columns]
+The script has the name TATACONSUM.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+         Date        Open        High  ...  pandas_SMA_50    Buy  Trigger
+47 2020-05-21  363.899994  366.399994  ...            NaN  False    False
+
+[1 rows x 11 columns]
+The script has the name CASTROLIND.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date    Open        High  ...  pandas_SMA_50    Buy  Trigger
+235 2020-05-21  108.25  109.900002  ...        116.042  False    False
+
+[1 rows x 11 columns]
+The script has the name CARERATING.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date   Open        High  ...  pandas_SMA_50    Buy  Trigger
+235 2020-05-21  357.0  370.700012  ...     370.553999  False    False
+
+[1 rows x 11 columns]
+The script has the name PIDILITIND.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date    Open         High  ...  pandas_SMA_50   Buy  Trigger
+235 2020-05-21  1370.0  1412.949951  ...    1429.641995  True    False
+
+[1 rows x 11 columns]
+The script has the name ASIANPAINT.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date    Open    High  ...  pandas_SMA_50   Buy  Trigger
+235 2020-05-21  1503.0  1547.0  ...    1670.025991  True    False
+
+[1 rows x 11 columns]
+The script has the name BRITANNIA.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date         Open    High  ...  pandas_SMA_50    Buy  Trigger
+235 2020-05-21  3120.100098  3157.0  ...    2857.081987  False    False
+
+[1 rows x 11 columns]
+The script has the name MANAPPURAM.NS
+[*********************100%***********************]  1 of 1 completed
+Index(['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'], dtype='object')
+Directory  2020-05-21  already exists
+          Date   Open        High  ...  pandas_SMA_50    Buy  Trigger
+235 2020-05-21  122.0  124.699997  ...        113.546  False    False
+
+[1 rows x 11 columns]

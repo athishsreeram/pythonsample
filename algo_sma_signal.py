@@ -1,13 +1,23 @@
+import sys
+import os
+
 from pandas_datareader import data as pdr
 import matplotlib.pyplot as pyplot
 import pandas as pd
 import numpy as np
 import yfinance as yf
+from datetime import datetime
+
+today = datetime.today().strftime('%Y-%m-%d')
+
+x = (sys.argv[1])
+
+print("The script has the name %s" % x)
 
 yf.pdr_override() # <== that's all it takes :-)
 
 # download dataframe using pandas_datareader
-data = pdr.get_data_yahoo("TCS.NS", start="2019-06-01", end="2020-05-30")
+data = pdr.get_data_yahoo(x, start="2019-06-01", end="2020-05-30")
 
 
 df = pd.DataFrame(data)
@@ -29,18 +39,30 @@ print(df.columns)
 df['pandas_SMA_20'] = df.iloc[:,4].rolling(window=20).mean()
 df['pandas_SMA_50'] = df.iloc[:,4].rolling(window=50).mean()
 
-df['Buy'] = df['pandas_SMA_20'] > df['pandas_SMA_50']
+df['Buy'] = df['pandas_SMA_20'] < df['pandas_SMA_50']
 df['Trigger'] = df['pandas_SMA_20'] == df['pandas_SMA_50']
 
 pyplot.figure(figsize=[15,10])
+pyplot.title('SMA 20 VS 50 %s' %x)
 pyplot.grid(True)
 pyplot.plot(df['Close'],label='Price')
-pyplot.plot(df['pandas_SMA_20'],label='SMA 20 Months')
-pyplot.plot(df['pandas_SMA_50'],label='SMA 50 Months')
+pyplot.plot(df['pandas_SMA_20'],label='SMA 20 DAYS')
+pyplot.plot(df['pandas_SMA_50'],label='SMA 50 DAYS')
 pyplot.legend(loc=2)
-pyplot.show()
+#pyplot.show()
 
-print(df.loc[df['Buy'] == True ])
+try:
+    # Create target Directory
+    os.mkdir(today)
+    print("Directory " , today ,  " Created ") 
+except FileExistsError:
+    print("Directory " , today ,  " already exists")
+
+filename = x+'_20vs50_'+today+'.png' 
+
+pyplot.savefig(os.path.join(today,filename))
+
+#print(df.loc[df['Buy'] == True ])
 
 
-#print(df.tail(100))
+print(df.tail(1))

@@ -1,19 +1,28 @@
 import yfinance as yf
 import json
+import pandas as pd
 
-ticker = yf.Ticker("TCS.NS")
+
+tick = "TCS.NS"
+
+pb = 1.0
+
+ticker = yf.Ticker(tick)
 print(ticker)
 """
 returns
 <yfinance.Ticker object at 0x1a1715e898>
 """
 
-# get stock info
-print(ticker.info)
 
-print(ticker.info['fiftyTwoWeekLow'])
-
-
-parsed = json.loads(str(ticker.info))
-
-print(json.dumps(parsed, indent=2, sort_keys=True))
+# get stock info print(ticker.info)
+if  ticker.info['priceToBook'] >= pb :
+    data = {'tick':[tick],
+         'fiftyTwoWeekLow':ticker.info['fiftyTwoWeekLow'],
+         'regularMarketOpen': ticker.info['regularMarketOpen'],
+         'bookValue': ticker.info['bookValue'],
+         'priceToBook': ticker.info['priceToBook'],
+         'dividendRate':ticker.info['dividendRate']}
+    print(data)
+    df = pd.DataFrame(data)
+    print(df)
