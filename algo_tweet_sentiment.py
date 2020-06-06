@@ -25,6 +25,7 @@ if __name__ == "__main__":
     for tweet in tweets:
         text = TextBlob(tweet.text).sentiment
         if text.subjectivity != 0:
+            
             valid += 1
             positive += (text.polarity > 0)
 
