@@ -3,7 +3,7 @@ import json
 import pandas as pd
 
 
-tick = "TCS.NS"
+tick = "DIVISLAB.NS"
 
 pb = 1.0
 

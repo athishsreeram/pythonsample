@@ -17,7 +17,7 @@ print("The script has the name %s" % x)
 yf.pdr_override() # <== that's all it takes :-)
 
 # download dataframe using pandas_datareader
-data = pdr.get_data_yahoo(x, start="2019-06-01", end="2020-05-30")
+data = pdr.get_data_yahoo(x, start="2019-06-01", end="2020-12-18")
 
 
 df = pd.DataFrame(data)
